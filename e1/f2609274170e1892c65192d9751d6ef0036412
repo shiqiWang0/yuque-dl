@@ -1,0 +1,33 @@
+test/utils.test.ts
+  ad47cd397ab8b9fe 188-212
+README.md
+  ad47cd397ab8b9fe 26-29,33-34,73-82,151
+src/utils/ProgressBar.ts
+  ad47cd397ab8b9fe 19-20,22,28,32-35,84-86,89,92,103-124,144
+test/index.test.ts
+  ad47cd397ab8b9fe 3,6,50-137
+src/cli.ts
+  ad47cd397ab8b9fe 6,83-88
+src/index.ts
+  ad47cd397ab8b9fe 11,87-208,327
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "e1f2609274170e1892c65192d9751d6ef0036412",
+  "prompts": {
+    "ad47cd397ab8b9fe": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019efe32-ecce-79c0-8024-abb733a5647c",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Bell",
+      "messages": [],
+      "total_additions": 312,
+      "total_deletions": 16,
+      "accepted_lines": 307,
+      "overriden_lines": 0
+    }
+  }
+}
